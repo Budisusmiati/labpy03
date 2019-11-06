@@ -6,8 +6,7 @@
 4. Gunakan While untuk perulangan yang tak terhitung.
 5. Ketika sudah menginputkan nilai, maka akan langsung muncul data nilai random. Berikut hasil program:
 
-![latihan2 (2)](https://user-images.githubusercontent.com/57002773/68300127-c1549e80-00cf-11ea-84b3-cd4d0b57e692.png)
-
+![latihan2 (2)](https://user-images.githubusercontent.com/57002773/68300127-c1549e80-00cf-11ea-84b3-cd4d0b57e692.pn
 
 # Penjelasan latihan2.py
 1. Untuk mencari bilangan terbesar dari sebuah n bilangan menggunakan fungsi max.

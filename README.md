@@ -1,6 +1,6 @@
 #labpy03
 # Penjelasan Latihan1.py
-1. Gunakan fungsi Random yang dapat diimport terlebih dahulu,fungsi ini untuk menampilkan nilai acak, seperti yang diinginkan adalah nilai acak yang lebih kecil dari 0.5.
+1. Gunakan fungsi Random, fungsi ini untuk menampilkan nilai acak, seperti yang diinginkan adalah nilai acak yang lebih kecil dari 0.5.
 2. Input Nilai, Nilai ini berfungsi untuk menampilkan data dalam jumlah banyak. 
 3. Masukkan nilai.
 4. Gunakan While untuk perulangan yang tak terhitung.

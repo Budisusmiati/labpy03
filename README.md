@@ -5,9 +5,6 @@
 3. Masukkan nilai.
 4. Gunakan kombinasi While dan for untuk perulangan.
 5. Ketika sudah menginputkan nilai, maka akan langsung muncul data nilai random. Berikut hasil program:
-![latihan1 (2)](https://user-images.githubusercontent.com/57002773/68305275-f534c180-00d9-11ea-84a9-98282dde4447.png)
-
-
 
 # Penjelasan latihan2.py
 1. Untuk mencari bilangan terbesar dari sebuah n bilangan menggunakan fungsi max.

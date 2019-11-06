@@ -8,8 +8,7 @@
 
 ![latihan1](https://user-images.githubusercontent.com/57002773/68300094-b0a42880-00cf-11ea-8b8b-ccf4114dc596.png)
 
-![latihan1 1](https://user-images.githubusercontent.com/57002773/68300113-bac62700-00cf-11ea-97c3-ccc41a42b260.png)
-!
+
 # Penjelasan latihan2.py
 1. Untuk mencari bilangan terbesar dari sebuah n bilangan menggunakan fungsi max.
 2. Masukkan Bilangan (selain angka 0).
@@ -18,16 +17,12 @@
 
 ![latihan2 (2)](https://user-images.githubusercontent.com/57002773/68300127-c1549e80-00cf-11ea-84b3-cd4d0b57e692.png)
 
-![latihan2 1](https://user-images.githubusercontent.com/57002773/68300153-ce718d80-00cf-11ea-8125-648a5ad9463b.png)
-
 # Penjelasan Program1.py
 1. Modal awal pengusaha adalah 100000000.
 2. Gunakan sum untuk menjumlahkan total laba.
 3. Input presentase keuntungan perbulan untuk menghitung laba yang didapatkan.
 4. Selanjutnya laba yang didapatkan perbulan akan ditampilkan, gunakan  looping berupa for, untuk menampilkan kembali jumlah laba yang telah dihitung berdasarkan presentasenya.
 5. Berikut hasil program:
-
-![program1 2](https://user-images.githubusercontent.com/57002773/68300180-d92c2280-00cf-11ea-8af3-3220de34c1a4.png)
 
 ![program1](https://user-images.githubusercontent.com/57002773/68300196-dfba9a00-00cf-11ea-9932-9facda7500da.png)
 

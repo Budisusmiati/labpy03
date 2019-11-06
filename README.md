@@ -1,18 +1,33 @@
 #labpy03 
 # Penjelasan Latihan1.py
-1. Gunakan fungsi Random yang dapat diimport terlebih dahulu,fungsi ini untuk menampilkan nilai acak.
-2. Input Nilai, nilai ini berfungsi untuk menampilkan data dalam jumlah banyak. Masukkan nilai berapa saja yang diinginkan.
-3. Gunakan While untuk perulangan yang tak terhitung.
-4. Ketika sudah menginputkan nilai, maka akan langsung muncul data nilai random. Berikut hasil program:
+1. Gunakan fungsi Random yang dapat diimport terlebih dahulu,fungsi ini untuk menampilkan nilai acak, seperti yang diinginkan adalah nilai acak yang lebih kecil dari 0.5.
+2. Input Nilai, Nilai ini berfungsi untuk menampilkan data dalam jumlah banyak. 
+3.Masukkan nilai.
+4. Gunakan While untuk perulangan yang tak terhitung.
+5. Ketika sudah menginputkan nilai, maka akan langsung muncul data nilai random. Berikut hasil program:
 
-# penjelasan latihan2.py
+![latihan1](https://user-images.githubusercontent.com/57002773/68300094-b0a42880-00cf-11ea-8b8b-ccf4114dc596.png)
+
+![latihan1 1](https://user-images.githubusercontent.com/57002773/68300113-bac62700-00cf-11ea-97c3-ccc41a42b260.png)
+!
+# Penjelasan latihan2.py
 1. Untuk mencari bilangan terbesar dari sebuah n bilangan menggunakan fungsi max.
-2. Masukkan Bilangan yang diinginkan (selain angka 0).
+2. Masukkan Bilangan (selain angka 0).
 3. Program akan terus mengulang untuk meminta Anda memasukkan bilangan.
 4. Pengulangan akan berhenti ketika anda memasukkan angka 0 (nol).
+
+![latihan2 (2)](https://user-images.githubusercontent.com/57002773/68300127-c1549e80-00cf-11ea-84b3-cd4d0b57e692.png)
+
+![latihan2 1](https://user-images.githubusercontent.com/57002773/68300153-ce718d80-00cf-11ea-8125-648a5ad9463b.png)
 
 # Penjelasan Program1.py
 1. Modal awal pengusaha adalah 100000000.
 2. Gunakan sum untuk menjumlahkan total laba.
 3. Input presentase keuntungan perbulan untuk menghitung laba yang didapatkan.
 4. Selanjutnya laba yang didapatkan perbulan akan ditampilkan, gunakan  looping berupa for, untuk menampilkan kembali jumlah laba yang telah dihitung berdasarkan presentasenya.
+5. Berikut hasil program:
+
+![program1 2](https://user-images.githubusercontent.com/57002773/68300180-d92c2280-00cf-11ea-8af3-3220de34c1a4.png)
+
+![program1](https://user-images.githubusercontent.com/57002773/68300196-dfba9a00-00cf-11ea-9932-9facda7500da.png)
+

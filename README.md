@@ -4,14 +4,14 @@
 2. Input Nilai, Nilai ini berfungsi untuk menampilkan data dalam jumlah banyak. 
 3. Masukkan nilai.
 4. Gunakan kombinasi While dan for untuk perulangan.
+5. Jika ingin menentukan batas bilangan gunakan fungsi uniform(x,y) yaitu untuk menampilkan bilangan float random dengan x itu batas awal dan y itu batas akhir. (Misal : batas awal 0 dan batas akhir 0.5)
 5. Ketika sudah menginputkan nilai, maka akan langsung muncul data nilai random. Berikut hasil program:
-
-![latihan2 (4)](https://user-images.githubusercontent.com/57002773/68306054-61fc8b80-00db-11ea-9655-717ee596f888.png)
+![Screenshot (94)](https://user-images.githubusercontent.com/57002773/68405559-e5d57700-01b2-11ea-8868-7b989d0bcc96.png)
 
 # Penjelasan latihan2.py
 1. Untuk mencari bilangan terbesar dari sebuah n bilangan menggunakan fungsi max.
 2. Masukkan Bilangan (selain angka 0).
-3. Program akan terus mengulang untuk meminta Anda memasukkan bilangan.
+3. Program akan terus mengulang ketika bernilai True untuk meminta Anda memasukkan bilangan.
 4. Pengulangan akan berhenti ketika anda memasukkan angka 0 (nol).
 
 ![latihan1 (3)](https://user-images.githubusercontent.com/57002773/68305349-1bf2f800-00da-11ea-955f-1b511a25fac3.png)

@@ -2,10 +2,10 @@
 # Penjelasan Latihan1.py
 1.Input Nilai, Nilai ini berfungsi untuk menampilkan data dalam jumlah banyak. 
 2.Gunakan fungsi Random yang bisa Anda import terlebih dahulu, fungsi ini untuk menampilkan nilai acak, dimana n adalah nilai acak yang lebih kecil dari 0.5.
-3. Masukkan nilai.
-4. Gunakan looping berupa for untuk perulangan.
-5. Jika ingin menentukan batas bilangan gunakan fungsi uniform(x,y) yaitu untuk menampilkan bilangan float random dengan x itu batas awal dan y itu batas akhir. (Misal : batas awal 0 dan batas akhir 0.5)
-6.. Ketika sudah menginputkan nilai, maka akan langsung muncul data nilai random yang lebih kecil dari 0.5. Berikut hasil program:
+3.Masukkan nilai.
+4.Gunakan looping berupa for untuk perulangan.
+5.Jika ingin menentukan batas bilangan gunakan fungsi uniform(x,y) yaitu untuk menampilkan bilangan float random dengan x itu batas awal dan y itu batas akhir. (Misal : batas awal 0 dan batas akhir 0.5)
+6.Ketika sudah menginputkan nilai, maka akan langsung muncul data nilai random yang lebih kecil dari 0.5. Berikut hasil program:
 
 ![Screenshot (94)](https://user-images.githubusercontent.com/57002773/68405559-e5d57700-01b2-11ea-8868-7b989d0bcc96.png)
 

@@ -3,7 +3,7 @@
 1. Gunakan fungsi Random, fungsi ini untuk menampilkan nilai acak, seperti yang diinginkan adalah nilai acak yang lebih kecil dari              0.5.
 2. Input Nilai, Nilai ini berfungsi untuk menampilkan data dalam jumlah banyak. 
 3. Masukkan nilai.
-4. Gunakan kombinasi While dan for untuk perulangan.
+4. Gunakan looping berupa for untuk perulangan.
 5. Jika ingin menentukan batas bilangan gunakan fungsi uniform(x,y) yaitu untuk menampilkan bilangan float random dengan x itu batas awal dan y itu batas akhir. (Misal : batas awal 0 dan batas akhir 0.5)
 6.. Ketika sudah menginputkan nilai, maka akan langsung muncul data nilai random yang lebih kecil dari 0.5. Berikut hasil program:
 
